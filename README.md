@@ -62,11 +62,3 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekrem-ciftci&theme=default" />
 </a>
 
-<h2> My Blog Posts </h2>
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h2> Learn Selenium - JUnit With Examples & Codes <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
